@@ -13,6 +13,7 @@ Here are some of my projects I think you will be interested in.
 
 |Automated Object Handling with UR5e 6-DoF Robotic Arm|
 |-------------------|
+| |
 
 [Link](https://gitfront.io/r/hongd13/wD3oN5qJpZXR/Robotic-Arm/ "Robotic Arm Repo")
 
