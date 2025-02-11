@@ -4,9 +4,9 @@ I am a recent BSc Computer Science and MSc Artificial Intelligence graduate with
 
 ## Education
 
-MSc in Artificial Intelligence | Aston University | Birmingham | Nov 2024
+MSc in AI | Aston University | Birmingham | Nov 2024
 
-BSc in Computer Science | Aston University | Birmingham | Jun 2023
+BSc in CS | Aston University | Birmingham | Jun 2023
 
 ## Projects
 - Automated Object Handling with UR5e 6-DoF Robotic Arm [Link](https://gitfront.io/r/hongd13/wD3oN5qJpZXR/Robotic-Arm/ "Robotic Arm Repo")
