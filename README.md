@@ -10,7 +10,7 @@ BSc in CS | Aston University | Birmingham | Jun 2023
 
 ## Projects
 
-> Here are some of my projects I think you will be interested in.
+> Here are some of my projects I think you might be interested in.
 
 |Automated Object Handling with UR5e 6-DoF Robotic Arm|
 |-------------------|
@@ -18,10 +18,9 @@ BSc in CS | Aston University | Birmingham | Jun 2023
 
 |Optimisation of Cutting Stock Problem Using Evolutionary Algorithms|
 |-------------------|
-
-[Link](https://gitfront.io/r/hongd13/vUKqKJ8xGxK5/Cutting-Stock-Problem/ "Cutting Stock Problem Repo")
+|Conventionally, optimisation algorithm design often favours elitism and sees it as an obvious choice of technique. However, inspired by "Talent versus Luck" by Pluchino et al., this project proves, that contrary to traditional elitism, equal investment of resources in opportunities can yield just as good if not better outcomes. See the project in details [here](https://gitfront.io/r/hongd13/vUKqKJ8xGxK5/Cutting-Stock-Problem/ "Cutting Stock Problem Repo").|
 
 |Chagas’ Disease Detection with Machine Learning|
 |-------------------|
+|This project leverages machine learning techniques to detect the presence of Chagas' disease in patients, using a high complexity Linear B-cell epitopes dataset. The machine learning model achieved a 97% recall of positive patients. Checkout the full development process and results [here](https://gitfront.io/r/hongd13/eruzBBDSHoa7/Chagas-Disease-Prediction/ "Chagas' Disease Detection Repo").|
 
-[Link](https://gitfront.io/r/hongd13/eruzBBDSHoa7/Chagas-Disease-Prediction/ "Chagas' Disease Detection Repo")
