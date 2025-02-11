@@ -4,6 +4,7 @@ I am a recent BSc Computer Science and MSc Artificial Intelligence graduate with
 
 ## Education
 MSc in Artificial Intelligence | Aston University | Birmingham | Nov 2024
+
 BSc in Computer Science | Aston University | Birmingham | Jun 2023
 
 ## Projects
