@@ -9,6 +9,9 @@ MSc in AI | Aston University | Birmingham | Nov 2024
 BSc in CS | Aston University | Birmingham | Jun 2023
 
 ## Projects
-- Automated Object Handling with UR5e 6-DoF Robotic Arm [Link](https://gitfront.io/r/hongd13/wD3oN5qJpZXR/Robotic-Arm/ "Robotic Arm Repo")
+Here are some of my projects I think you will be interested in.
+
+### Automated Object Handling with UR5e 6-DoF Robotic Arm 
+[Link](https://gitfront.io/r/hongd13/wD3oN5qJpZXR/Robotic-Arm/ "Robotic Arm Repo")
 - Optimisation of Cutting Stock Problem Using Evolutionary Algorithms [Link](https://gitfront.io/r/hongd13/vUKqKJ8xGxK5/Cutting-Stock-Problem/ "Cutting Stock Problem Repo")
 - Chagas’ Disease Detection with Machine Learning [Link](https://gitfront.io/r/hongd13/eruzBBDSHoa7/Chagas-Disease-Prediction/ "Chagas' Disease Detection Repo")
