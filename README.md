@@ -14,9 +14,7 @@ BSc in CS | Aston University | Birmingham | Jun 2023
 
 |Automated Object Handling with UR5e 6-DoF Robotic Arm|
 |-------------------|
-| |
-
-[Link](https://gitfront.io/r/hongd13/wD3oN5qJpZXR/Robotic-Arm/ "Robotic Arm Repo")
+|I created a hybrid behaviour algorithm that operates the robotic arm to identify objects, handle these objects, and then drop them into a specified location, this behaviour model enables both deliberative and reactive capabilities. Check out the full implementation [here](https://gitfront.io/r/hongd13/wD3oN5qJpZXR/Robotic-Arm/ "Robotic Arm Repo")!|
 
 |Optimisation of Cutting Stock Problem Using Evolutionary Algorithms|
 |-------------------|
