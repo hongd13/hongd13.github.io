@@ -9,7 +9,8 @@ MSc in AI | Aston University | Birmingham | Nov 2024
 BSc in CS | Aston University | Birmingham | Jun 2023
 
 ## Projects
-Here are some of my projects I think you will be interested in.
+
+> Here are some of my projects I think you will be interested in.
 
 |Automated Object Handling with UR5e 6-DoF Robotic Arm|
 |-------------------|
