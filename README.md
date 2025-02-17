@@ -44,10 +44,12 @@ Data Annotator | DataAnnotation.tech | Sept. 2023 – Present
 
 ## Education Contd.
 
-King Edward VI Sixth Form College | Nuneaton | 2018 
+King Edward VI Sixth Form College | Nuneaton | 2018
+
     *   A-Level Electronics
     *   A-Level Mathematics
     *   BTEC Information Technology
 
 Nuneaton Academy | Nuneaton | 2016
+
     *   GCSEs (Including English, Maths and Science)
