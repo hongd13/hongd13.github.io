@@ -10,10 +10,9 @@ BSc in CS | Aston University | Birmingham | Jun 2023
 
 ## Competitions
 
-Aston Hackathon | Runner-up | 2020
-
-    *   Collaborated with a team to perform a mock penetration test on a website, identifying and reporting key security vulnerabilities.
-    *   Completed algorithmic programming challenges, demonstrating problem-solving and coding proficiency.
+| Aston Hackathon | Runner-up | 2020 |
+|*   Collaborated with a team to perform a mock penetration test on a website, identifying and reporting key security vulnerabilities.
+ *   Completed algorithmic programming challenges, demonstrating problem-solving and coding proficiency.|
 
 ## Experience
 
