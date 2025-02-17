@@ -8,6 +8,12 @@ MSc in AI | Aston University | Birmingham | Nov 2024
 
 BSc in CS | Aston University | Birmingham | Jun 2023
 
+## Competitions
+
+Aston Hackathon | Runner-up | 2020
+    *   Collaborated with a team to perform a mock penetration test on a website, identifying and reporting key security vulnerabilities.
+    *   Completed algorithmic programming challenges, demonstrating problem-solving and coding proficiency.
+
 ## Projects
 
 > Here are some of my projects I think you might be interested in.
@@ -23,6 +29,8 @@ BSc in CS | Aston University | Birmingham | Jun 2023
 |Chagas’ Disease Detection with Machine Learning|
 |-------------------|
 |This project leverages machine learning techniques to detect the presence of Chagas' disease in patients, using a high complexity Linear B-cell epitopes dataset. The machine learning model achieved a 97% recall of positive patients. Checkout the full development process and results [here](https://gitfront.io/r/hongd13/eruzBBDSHoa7/Chagas-Disease-Prediction/ "Chagas' Disease Detection Repo").|
+
+
 
 ## Education Contd.
 
