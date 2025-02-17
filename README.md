@@ -47,5 +47,6 @@ King Edward VI Sixth Form College | Nuneaton | 2018
     *   A-Level Electronics
     *   A-Level Mathematics
     *   BTEC Information Technology
+
 Nuneaton Academy | Nuneaton | 2016
     *   GCSEs (Including English, Maths and Science)
