@@ -10,9 +10,9 @@ BSc in CS | Aston University | Birmingham | Jun 2023
 
 ## Competitions
 
-| Aston Hackathon | Runner-up | 2020 |
-|*   Collaborated with a team to perform a mock penetration test on a website, identifying and reporting key security vulnerabilities.
- *   Completed algorithmic programming challenges, demonstrating problem-solving and coding proficiency.|
+Aston Hackathon | Runner-up | 2020
+- Collaborated with a team to perform a mock penetration test on a website, identifying and reporting key security vulnerabilities.
+- Completed algorithmic programming challenges, demonstrating problem-solving and coding proficiency.|
 
 ## Experience
 
@@ -45,10 +45,10 @@ Data Annotator | DataAnnotation.tech | Sept. 2023 – Present
 
 King Edward VI Sixth Form College | Nuneaton | 2018
 
-    *   A-Level Electronics
-    *   A-Level Mathematics
-    *   BTEC Information Technology
+- A-Level Electronics
+- A-Level Mathematics
+- BTEC Information Technology
 
 Nuneaton Academy | Nuneaton | 2016
 
-    *   GCSEs (Including English, Maths and Science)
+- GCSEs (Including English, Maths and Science)
