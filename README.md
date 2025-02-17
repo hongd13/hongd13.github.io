@@ -14,6 +14,15 @@ Aston Hackathon | Runner-up | 2020
     *   Collaborated with a team to perform a mock penetration test on a website, identifying and reporting key security vulnerabilities.
     *   Completed algorithmic programming challenges, demonstrating problem-solving and coding proficiency.
 
+## Experience
+
+Data Annotator | DataAnnotation.tech | Sept. 2023 – Present
+*   Evaluated the performance of various AI models (text, image, code) by assessing instruction adherence, correctness, language quality, and verbosity.
+*   Utilised specified metrics to measure overall content quality and model performance.
+*   Conducted prompt engineering to produce content of consistent quality.
+*   Created and evaluated model instructions under specified constraints to achieve defined objectives.
+*   Assessed AI-generated code for readability, functionality, efficiency, and reliability, ensuring adherence to coding best practices.
+
 ## Projects
 
 > Here are some of my projects I think you might be interested in.
@@ -34,9 +43,9 @@ Aston Hackathon | Runner-up | 2020
 
 ## Education Contd.
 
-*   King Edward VI Sixth Form College | Nuneaton | 2018 
+King Edward VI Sixth Form College | Nuneaton | 2018 
     *   A-Level Electronics
     *   A-Level Mathematics
     *   BTEC Information Technology
-*   Nuneaton Academy | Nuneaton | 2016
+Nuneaton Academy | Nuneaton | 2016
     *   GCSEs (Including English, Maths and Science)
