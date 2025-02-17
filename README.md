@@ -24,3 +24,11 @@ BSc in CS | Aston University | Birmingham | Jun 2023
 |-------------------|
 |This project leverages machine learning techniques to detect the presence of Chagas' disease in patients, using a high complexity Linear B-cell epitopes dataset. The machine learning model achieved a 97% recall of positive patients. Checkout the full development process and results [here](https://gitfront.io/r/hongd13/eruzBBDSHoa7/Chagas-Disease-Prediction/ "Chagas' Disease Detection Repo").|
 
+## Education Contd.
+
+*   King Edward VI Sixth Form College | Nuneaton | 2018 
+    *   A-Level Electronics
+    *   A-Level Mathematics
+    *   BTEC Information Technology
+*   Nuneaton Academy | Nuneaton | 2016
+    *   GCSEs (Including English, Maths and Science)
