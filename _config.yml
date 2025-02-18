@@ -1,5 +1,9 @@
 title: David Hong
 logo: profp3.PNG
-description: David20000613@gmail.com
+#description:
+contact:
+  phone: "+1-555-123-4567"
+  email: "myemail@example.com"
+  linkedin: "https://www.linkedin.com/in/myprofile"
 show_downloads: false
 theme: jekyll-theme-minimal
