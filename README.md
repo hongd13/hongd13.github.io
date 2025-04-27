@@ -1,6 +1,6 @@
 # Hello!
 
-I am a recent BSc Computer Science and MSc Artificial Intelligence graduate with a strong technical foundation. Throughout my studies, I have accumulated a diverse skill set and am now both excited and eager to apply it to solving real-world challenges. I thrive on innovation, creativity, and intuitive problem-solving, ready to make a meaningful impact in the field of technology.
+A recent graduate holding both a BSc in Computer Science and a specialised MSc in Artificial Intelligence, who is resilient to setbacks and thrives amid obstacles. My academic journey has taught me the value of a rigorous scientific research practice, it has made me a persistent problem-solver and a logical thinker. Being genuinely fascinated by the potential of AI and especially marvelled by the prospects of data-driven technologies, I am excited to seek roles in data analytics and machine learning. I believe with my experience in developing machine learning models for natural language processing and disease prediction in the past, I am ready to leverage my knowledge and skills to contribute to making a meaningful impact on tackling and solving real-world challenges.
 
 ## Education
 
